@@ -1,0 +1,4 @@
+Set increment and drement in cells of tableview
+
+cells will not show reoccuring count value in other cells when scrolling through the tableview
+(I previously had a bug where it would previous selected count in the cell as i scrolled through the Tableview)
